@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Dining",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718994020/r1_yiqc7w.png"
+    },
+    {
+        "id": 2,
+        "name": "Living",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718994017/r3_n3nukw.png"
+    },
+    {
+        "id": 3,
+        "name": "Bedroom",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718994014/r2_bobesh.png"
+    }
+]

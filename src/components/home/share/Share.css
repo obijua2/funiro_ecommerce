@@ -1,0 +1,22 @@
+.share {
+    margin-bottom: 100px;
+}
+
+.share .header {
+    text-align: center;
+}
+
+.share-gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px 0;
+
+}
+
+.share-gallery img {
+    flex-wrap: wrap; 
+    width: auto;
+    height: auto;
+    margin: 10px 0;
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "discount": "-30%",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993868/image_1_syyfds.png",
+        "name": "Syltherine",
+        "description": "Stylish cafe chair",
+        "price": "Rp 2.500.000",
+        "dsct": "Rp 3.500.000"
+    },
+    {
+        "id": 2,
+        "discount": "-50%",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1717002007/samples/chair.png",
+        "name": "Leviosa",
+        "description": "Stylish cafe chair",
+        "price": "Rp 2.500.000"
+    },
+    {
+        "id": 3,
+        "new": "New",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993871/image_3_ypkldx.png",
+        "name": "Lolito",
+        "description": "Luxury big sofa",
+        "price": "Rp 7.000.000"
+    },
+    {
+        "id": 4,
+        "": "",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993867/Images_a7pcxe.png",
+        "name": "Respira",
+        "description": "Outdoor bar table and stool",
+        "price": "Rp 5.00.000"
+    },
+    {
+        "id": 5,
+        "new": "New",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993864/Images_1_ujevcu.png",
+        "name": "Grifo",
+        "description": "Night lamp",
+        "price": "Rp 1.500.000"
+    },
+    {
+        "id": 6,
+        "": "",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993875/image_6_xlvumx.png",
+        "name": "Mugo",
+        "description": "Small mug",
+        "price": "Rp 150.000"
+    },
+    {
+        "id": 7,
+        "new": "New",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993863/image_7_mqc85b.png",
+        "name": "Pinky",
+        "description": "Cute bed set",
+        "price": "Rp 7.000.000"
+    },
+    {
+        "id": 8,
+        "discount": "-40%",
+        "image": "https://res.cloudinary.com/didpkgwyb/image/upload/v1718993863/image_8_iuamx3.png",
+        "name": "Potty",
+        "description": "Minimalist flower pot",
+        "price": "Rp 500.000"
+    }
+]

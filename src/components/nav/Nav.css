@@ -1,0 +1,55 @@
+.nav {
+    width: 100%;
+    padding: 20px 10px;
+    display: flex;
+    background-color: #fff;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    position: fixed;
+    z-index: 100;
+  }
+
+  .nav .logo{
+    display: flex;
+  }
+  
+.nav .logo h1 {
+  font-family: Montserrat;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 41.45px;
+  cursor: pointer;
+}
+  
+  .nav .nav-menu {
+    display: flex;
+    padding-top: 10px;
+    gap: 30px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 24px;
+    list-style: none;
+  }
+  
+  .nav .nav-login-cart {
+    display: flex;
+    padding-top: 10px;
+    gap: 30px;
+  }
+  
+  
+  .nav .nav-login-cart .nav-cart-count {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -12px;
+    margin-left: -38px;
+    border-radius: 11px;
+    font-size: 14px;
+    background: red;
+    color: white;
+  }

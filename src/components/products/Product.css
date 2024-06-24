@@ -1,0 +1,111 @@
+
+.product .our-product {
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.product .inner {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 15px 0;
+    gap: 30px;
+}
+
+.inner .box1 {
+    background: #F4F5F7;
+}
+
+.inner .box1 img {
+    width: 281px;
+    height: 301px;
+}
+
+
+
+.new {
+    border: 1px solid transparent;
+    border-radius: 200px;
+    width: 45px;
+    height: 45px;
+    margin-left: 210px;
+    text-align: center;
+    margin-top: -280px;
+    margin-bottom: 215px;
+    background: #E97171;
+    position: absolute;
+ }
+ 
+ .new p {
+     margin-top: 12px;
+     color: #000;
+ }
+ 
+ .discount {
+   border: 1px solid transparent;
+   border-radius: 200px;
+   width: 45px;
+   height: 45px;
+   margin-left: 210px;
+   text-align: center;
+   margin-top: -280px;
+   margin-bottom: 215px;
+   background: #2EC1AC;
+   position: absolute;
+   z-index: 1;
+}
+
+.discount h4 {
+    margin-top: 12px;
+    color: #000;
+}
+
+
+
+.inner .name {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    color: #3A3A3A;
+}
+
+.inner .descrption {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: -20px;   
+}
+
+.inner .prices {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #3A3A3A;
+    margin-top: -20px;
+}
+
+.product .show-more {
+    text-wrap: nowrap;
+    width: 245px;
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid #B88E2F;
+}
+
+.product .show-more p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #B88E2F;
+}

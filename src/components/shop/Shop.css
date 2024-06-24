@@ -1,0 +1,155 @@
+.shop {
+}
+
+.h-top {
+    background: url('./images/background.png') no-repeat  center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.text {
+    margin-top: 80px;
+}
+
+.text h1 {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 72px;
+}
+
+.comp {
+    display: flex;
+    padding-top: 10px;
+    gap: 5px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 24px;
+}
+
+.comp h3 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.comp .icon {
+    margin-top: 3px;
+    margin-left: -5px;
+}
+
+.comp p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+
+.product {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 200px;
+}
+
+.product .box {
+    background: #F4F5F7;
+}
+
+.product .box img {
+    width: 281px;
+    height: 301px;
+}
+
+.product .name {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    color: #3A3A3A;
+}
+
+.product .description {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: -20px;
+}
+
+.product .price {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: -40px;
+    color: #3A3A3A;
+}
+
+
+
+
+/* top footer */
+
+.top-footer {
+    font-family: Arial, sans-serif;
+    background-color: #FAF3EA;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 27vh;
+  }
+  
+  .features {
+    display: flex;
+    gap: 135px;
+    margin-bottom: 70px;
+    max-width: 1240px;
+  }
+  
+  .feature {
+    /* background-color: #ffffff; */
+    /* padding: 20px;
+    border-radius: 10px; */
+    display: flex;
+    align-items: center;
+    
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  }
+
+  .feature
+  
+  .icon {
+    font-size: 36px;
+    margin-right: 10px;
+    margin-top: 85px;
+  }
+  
+  .text h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .text p {
+    margin: 0;
+    color: #777777;
+    font-size: 14px;
+  }
