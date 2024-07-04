@@ -16,7 +16,8 @@ const Shop = () => {
           <div className="text">
             <h1>Shop</h1>
             <div className='comp'>
-              <h3>Home</h3><div className='icon'><IoIosArrowForward /></div>
+              <h3>Home</h3>
+              <div className='arrow'><IoIosArrowForward /></div>
               <p>Shop</p>
             </div>
           </div>

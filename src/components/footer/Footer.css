@@ -68,7 +68,7 @@
 
   .newsletter-form {
     display: flex;
-    gap: 20px;
+    gap: 10px;
   }
   
   .newsletter-form input {
@@ -76,6 +76,7 @@
     border: transparent;
     border-radius: 4px 0 0 4px;
     font-size: 14px;
+    margin-top: 10px;
     flex: 1;
   }
 
@@ -85,25 +86,25 @@
   
   .newsletter-form button {
     font-family: Poppins;
-    padding-top: 15px;
+    padding-top: 20px;
     background-color: transparent;
-    color: #000000;
     border: none;
     border-radius: 0 4px 4px 0;
     cursor: pointer;
     font-size: 14px;
     font-weight: 800;
-    line-height: 21px;
+    width: 75px;
   }
 
-  .newsletter-form .btn {
+
+  .newsletter-form .bttn {
     border-bottom: 2px solid#000000;
-    
+    width: 100px;
   }
   
-  .newsletter-form button:hover {
+  /* .newsletter-form button:hover {
     background-color: #444;
-  }
+  } */
   
   .footer-bottom {
     text-align: left;

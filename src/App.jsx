@@ -7,6 +7,8 @@ import Shop from './components/shop/Shop';
 import About from './components/about/About';
 import Contact from './components/contact/Contact';
 import Blog from './components/blog/Blog';
+import Cart from './components/cart/Cart';
+import CheckoutForm from './components/checkout/CheckoutForm';
 
 function App() {
 
@@ -20,6 +22,8 @@ function App() {
         <Route path='/about' element={<About/>}/>
         <Route path='/contact' element={<Contact/>}/>
         <Route path='/blog' element={<Blog/>}/>
+        <Route path='/cart' element={<Cart/>}/>
+        <Route path='/checkoutform' element={<CheckoutForm/>}/>
       </Routes>
       </BrowserRouter>
     </div>

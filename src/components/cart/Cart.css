@@ -1,0 +1,138 @@
+.cart-details {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.details {
+    flex: 1.8;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.details .line-1 {
+    background-color: #F9F1E7;
+    width: 817px;
+    height: 55px;
+    margin-left: 4rem;
+}
+
+.details .line-1 ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 5rem;
+}
+
+.details .line-1 ul li {
+    margin-top: 15px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+
+}
+
+
+.details .line-2 ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 3rem;
+    margin-top: 50px;
+}
+
+.details .line-2  .name, .rsa {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #9F9F9F;
+}
+
+
+.details .line-2 .qty {
+    border: 1px solid #9F9F9F;
+    border-radius: 5px;
+    width: 32px;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.line-2 .rsb {
+    color: #000000;
+}
+
+
+.cart-totals {
+    flex: 1;
+    margin-top: 100px;
+}
+
+.box {
+    background-color: #F9F1E7;
+    border: none;
+    width: 393px;
+    height: 390px;
+    padding: 10px 90px;
+}
+
+.cart-totals h1 {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: justify;
+    margin-top: 20px;
+    padding-left: 2rem;
+}
+
+.cart-totals .subtotal ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    margin-top: 70px;
+    padding-left: 10px;
+}
+
+.cart-totals .subtotal .sub-rs {
+    color: #9F9F9F;
+}
+
+.cart-totals .total ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.cart-totals .total .tot-rs {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #B88E2F;
+}
+
+.box .check-out {
+    font-family: Poppins;
+    background-color: #F9F1E7;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 222px;
+    height: 58.95px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 50px;
+}
+
+.box .check-out:hover {
+    background-color: #B88E2F;
+}
+
+
+.top-footer {
+    margin-bottom: 5px;
+}

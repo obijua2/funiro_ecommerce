@@ -40,7 +40,7 @@ const Footer = () => {
               <div className="email">
                  <input type="email" name="email" placeholder="Enter Your Email Address" required />
               </div>
-              <div className="btn">
+              <div className="bttn">
                  <button type="submit">SUBSCRIBE</button>
               </div>
             </form>

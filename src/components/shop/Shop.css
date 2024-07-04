@@ -1,5 +1,5 @@
-.shop {
-}
+/* .shop {
+} */
 
 .h-top {
     background: url('./images/background.png') no-repeat  center center fixed;
@@ -48,8 +48,8 @@
     line-height: 24px;
 }
 
-.comp .icon {
-    margin-top: 3px;
+.comp .arrow {
+    padding-top: 4px;
     margin-left: -5px;
 }
 
@@ -131,11 +131,9 @@
     border-radius: 10px; */
     display: flex;
     align-items: center;
-    
     /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
   }
 
-  .feature
   
   .icon {
     font-size: 36px;
